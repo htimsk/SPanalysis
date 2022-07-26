@@ -1,4 +1,4 @@
-# A statistical anaylysis of the Rocket Pool Smoothing Pool.
+# Modeling the Profitability of the Rocket Pool Smoothing Pool
 
 This Monte Carlo based analysis attempts to quantify the likely real-world performance of a Rocket Pool (RP) minipool (i.e., an ethereum validator) that joins the smoothing pool (SP) versus remaining a *solitarius* minipool.  The SP is an opt-in feature that will collectively pool the PPV of every member opted into it.  *Solitarius* minipools are RP validators whose node operators (NO) have chosen not to opt-in to the SP and remain in their solitary configuration.
 
@@ -12,6 +12,6 @@ We also compiled a series of heat maps looking at a combination of ratios of NO 
 
 **Tl;dr A NO participating in the SP is more likely to receive larger monthly ETH rewards than running solitarius minipools.  This depends on two prerequisites.  First, the NO joins the SP only when their minipools will not compose the majority of minipools in the SP.  Second, the NO will not validate for an indefinite time.**
 
-Download a pdf of the report
+[Download a pdf of the report](https://github.com/htimsk/SPanalysis/raw/main/report/Analysis%20of%20the%20Smoothing%20Pool.pdf)
 
 [Google docs version for commenting](https://docs.google.com/document/d/1dTYbES2mypo06R7Bd1LOzYpGnkHyU0TVWd6Vat9HIGI/edit?usp=sharing)
