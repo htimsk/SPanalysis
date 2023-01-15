@@ -15,3 +15,5 @@ We also compiled a series of heat maps looking at a combination of ratios of NO 
 [Download a pdf of the report](https://github.com/htimsk/SPanalysis/raw/main/report/Analysis%20of%20the%20Smoothing%20Pool.pdf)
 
 [Google docs version for commenting](https://docs.google.com/document/d/1dTYbES2mypo06R7Bd1LOzYpGnkHyU0TVWd6Vat9HIGI/edit?usp=sharing)
+
+This analytical report and the associated code in this repository are available under the BB CY license. 
